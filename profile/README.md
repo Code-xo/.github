@@ -1,5 +1,3 @@
-# Select a membership level
-
 ## Show Some Love 💖
 
 $1 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038698)
