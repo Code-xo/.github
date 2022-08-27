@@ -52,6 +52,6 @@ You Can Add your Brand Name To My Project As Sponser
 
 Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
 
-## Sponser 💎
+## Sponsers 💎
 
 Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
