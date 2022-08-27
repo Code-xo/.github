@@ -49,3 +49,11 @@ You Can Add your Brand Name To My Project As Sponser
 - Chat with Me [ Get Help ]
 - Privet Source Codes
 - Sponsership Batch
+
+## Backers ⭐
+
+Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
+
+## Sponser 💎
+
+Get [Membership](https://www.patreon.com/codexo) To Add Your Brand Name Here
