@@ -1,6 +1,6 @@
 ## Show Some Love 💖
 
-$1 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038698)
+### $1 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038698)
 
 Show your support for me and get access to all patreon content.
 
@@ -15,7 +15,7 @@ And you can make one time payment by sign up and then cancel the membership afte
 
 ## Backer ⭐
 
-$5 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038729)
+### $5 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038729)
 
 Show your support for me and get access to all patreon content.
 
@@ -31,9 +31,9 @@ You Can Add your Brand Name To My Project As Backer
 - Backer Batch
 
 ## Sponser 💎
-Limited (10 of 10 remaining)
+##### Limited (10 of 10 remaining)
 
-$20 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038718)
+### $20 : per month : [Join](https://www.patreon.com/join/codexo/checkout?rid=9038718)
 
 Be a top-tier supporter of code xo and get access to all patreon content.
 
